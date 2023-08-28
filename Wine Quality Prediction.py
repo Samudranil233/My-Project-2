@@ -1,6 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
+#LIBRARIES THAT ARE NEED TO BE IMPORTED 
 # In[3]:
 
 
